@@ -1,6 +1,6 @@
 # XoxoWeb
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.   delete 2
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20. FROY WEB 3
 
 ## Development server
 
